@@ -1,4 +1,4 @@
-# AcyclicVisitor
-Acyclic Visistor Pattern with Java 8 &amp; Generics
+# Acyclic Visitor
+Acyclic Visitor Pattern with Java 8 &amp; Generics.
 It employs Java Generics for the Acyclic Visitor Pattern: http://www.objectmentor.com/resources/articles/visitor
-The interface segregation is better achieved
+The interface segregation is better achieved.
